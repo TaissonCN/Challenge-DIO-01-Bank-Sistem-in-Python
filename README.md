@@ -20,7 +20,7 @@ This project implements a basic banking system in Python, allowing a user to per
 To run the system, you need to have Python installed on your machine. Clone this repository, navigate to the project directory, and run the script:
 
 ```bash
-python sistema_bancario.py
+python Challenge-DIO-01-Bank-System-in-Python.py
 ```
 
 ## Technologies Used
